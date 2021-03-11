@@ -13,8 +13,15 @@ Description: Columns(['id', 'diagnosis', 'radius_mean', 'texture_mean', 'perimet
        'fractal_dimension_se', 'radius_worst', 'texture_worst',
        'perimeter_worst', 'area_worst', 'smoothness_worst',
        'compactness_worst', 'concavity_worst', 'concave points_worst',
-       'symmetry_worst', 'fractal_dimension_worst']
+       'symmetry_worst', 'fractal_dimension_worst'])
        
+       Question for this data:
+       
+       +  What are the characteristics of this data?
+       
+       +  Are there any relationships between these factors? What are factors that affect cancer strongly than others?
+       
+       +  What's model which can predict cancer efficiently?
        
 
 **_2 Superstore prediction_**
