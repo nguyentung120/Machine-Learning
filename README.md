@@ -5,14 +5,17 @@ Machine learning can serve as a solution to a variety of business complexities p
 **_1 Cancer prediction Model_**
 
 Link project: https://github.com/nguyentung120/Model-predict-cancer
+
 Description:
 
 **_2 Superstore prediction_**
 
 Link project: https://github.com/nguyentung120/superstore-predict
+
 Description: 
 
 **_3 Stock Model_**
 
 Link project: https://github.com/nguyentung120/Stock-Prediction-Python
+
 Description:
